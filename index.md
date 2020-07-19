@@ -4,9 +4,19 @@ title: Welcome
 tagline: Attempting to solve dependent care during COVID-19
 description: Welcome page
 ---
+Building on the intial work by 
+* Seemay Chou, PhD, Assistant Professor, Department of Biochemistry and Biophysics
+* Tejal Desai, PhD, Professor Department of Bioengineering and Therapeutic Sciences
+* Hana El-Samad, PhD, Professor, Department of Biochemistry and Biophysics
+* Danica Fujimori, PhD, Professor, Departments of Cellular and Molecular Pharmacology and Pharmaceutical Chemistry
+* Noelle L’Etoile, PhD, Associate Professor, Department of Cell and Tissue Biology
+* Susanna Rosi, PhD, Professor, Departments of Physical Therapy Rehabilitation Science and Neurosurgery
+* Lauren A. Weiss, PhD, Associate Professor, Department of Psychiatry
+the idea that UCSF should prioritize an Equitable Recovery was set down in a [letter](https://docs.google.com/document/d/1hyuL_n6lnId7bi0sOwUi0FYE5cyNfYE41ohybmYY6XQ/edit) delivered to campus leaders on 5/4/2020. In response several task forces have been launched as UCSF moves to the next phase of COVID-19 operations. Seemay Chou and James Fraser are on the Dependent Care task force. To communicate what is going on there and to help meet the needs of the science research community, which are often distinct from the clinical community, we are communicating through this website. This effort also is generously supported by [QBI](http://qbi.ucsf.edu/)
+
 ## 1) Goal #1: Create website that updates on our efforts (will be done today)
 
-This website will be specific to the research community at UCSF and update on things James and I are up to. We hope to provide news on a regular basis so you are aware of what is going on. We will also post a summary of the survey here, so be on the lookout.
+This website will initally be specific to the research community at UCSF and update on things we are up to. We hope to provide news on a regular basis so you are aware of what is going on. We will also post a summary of the initial survey here, so be on the lookout.
 
 ## 2) Goal #2: Relief from work duties this Fall (get people matched by mid-August)
 
