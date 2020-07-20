@@ -5,13 +5,14 @@ tagline: Attempting to solve dependent care during COVID-19
 description: Welcome page
 ---
 Building on the intial work by 
-* Seemay Chou, PhD, Assistant Professor, Department of Biochemistry and Biophysics
+
 * Tejal Desai, PhD, Professor Department of Bioengineering and Therapeutic Sciences
 * Hana El-Samad, PhD, Professor, Department of Biochemistry and Biophysics
 * Danica Fujimori, PhD, Professor, Departments of Cellular and Molecular Pharmacology and Pharmaceutical Chemistry
 * Noelle L’Etoile, PhD, Associate Professor, Department of Cell and Tissue Biology
 * Susanna Rosi, PhD, Professor, Departments of Physical Therapy Rehabilitation Science and Neurosurgery
 * Lauren A. Weiss, PhD, Associate Professor, Department of Psychiatry
+* Seemay Chou, PhD, Assistant Professor, Department of Biochemistry and Biophysics
 
 The idea that UCSF should prioritize an Equitable Recovery was set down in a [letter](https://docs.google.com/document/d/1hyuL_n6lnId7bi0sOwUi0FYE5cyNfYE41ohybmYY6XQ/edit) delivered to campus leaders on 5/4/2020. This spurred a broader call to arms in the Bay Area in an [op-ed](https://www.sfchronicle.com/opinion/openforum/article/Enabling-economic-and-equitable-recovery-in-the-15293604.php) by several of these faculty and other women in STEM. In response, an initial Equitable Recovery Taskforce was formed at UCSF to advise on next actionable next steps. Since then, several task forces have been launched as UCSF moves to the next phase of COVID-19 operations. [Seemay Chou and James Fraser](email) are on the Child & Dependent Care task force that falls withint this larger umbrella of efforts. To  help meet the urgent needs of the science research community, which are often distinct from the clinical community, and to update on the progress that the Child & Dependent Care task force is making, we are communicating through this website. 
 
