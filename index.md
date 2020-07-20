@@ -43,3 +43,6 @@ Our follow-up survey will ask for more info from you on the urgency and amount o
 ## Goal #6: Communicate extent of crisis to department heads or PIs (in 2 weeks)
 
 For faculty, we will send your chairs an anonymized summary of the data we collected, both broadly and specific to your department. For trainees and staff, we send an anonymized summary of the data we collected for your relative career stage to your PIs or supervisors and identify a point person/mentor to monitor your needs and advocate on your behalf moving forward. We will reinforce the message that chairs and PIs need to explicitly acknowledge the crisis and its impacts. We will also be calling on them to shore up $ support for your dependent care. We hope to identify individuals who can help write internal letters for merits/promotions for those significantly impacted by this crisis.
+
+
+### Please [email us](mailto:seemayandjames@fraserlab.com) suggestions or questions!
