@@ -18,7 +18,9 @@ The idea that UCSF should prioritize an Equitable Recovery was set down in a [le
 
 ## ~~Goal #1: Create website that updates on our efforts~~ (completed July 19)
 
-This website will initally be specific to the research community at UCSF and update on things we are up to. We hope to provide news on a regular basis so you are aware of what is going on. We will also post a summary of the initial survey here, so be on the lookout.
+This website will initally be specific to the research community at UCSF and update on things we are up to. We hope to provide news on a regular basis so you are aware of what is going on. 
+
+We have also posted a summary of the initial survey [here](/pages/survey.html).
 
 ## Goal #2: Relief from work duties this Fall (get people matched by mid-August)
 
