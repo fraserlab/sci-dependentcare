@@ -15,7 +15,7 @@ Building on the intial work by
 
 the idea that UCSF should prioritize an Equitable Recovery was set down in a [letter](https://docs.google.com/document/d/1hyuL_n6lnId7bi0sOwUi0FYE5cyNfYE41ohybmYY6XQ/edit) delivered to campus leaders on 5/4/2020. 
 In response several task forces have been launched as UCSF moves to the next phase of COVID-19 operations. 
-[Seemay Chou and James Fraser](email) are on the Child & Dependent Care task force. 
+[Seemay Chou and James Fraser](mailto:seemayandjames@fraserlab.com) are on the Child & Dependent Care task force. 
 To  help meet the urgent needs of the science research community, which are often distinct from the clinical community, and to update on the progress that the Child & Dependent Care task force is making, we are communicating through this website. This effort also is generously supported by [QBI](http://qbi.ucsf.edu/).
 
 ## 1) Goal #1: Create website that updates on our efforts (will be done today)
