@@ -14,13 +14,13 @@ Building on the intial work by
 * Lauren A. Weiss, PhD, Associate Professor, Department of Psychiatry
 * Seemay Chou, PhD, Assistant Professor, Department of Biochemistry and Biophysics
 
-The idea that UCSF should prioritize an Equitable Recovery was set down in a [letter](https://docs.google.com/document/d/1hyuL_n6lnId7bi0sOwUi0FYE5cyNfYE41ohybmYY6XQ/edit) delivered to campus leaders on 5/4/2020. This spurred a broader call to arms in the Bay Area in an [op-ed](https://www.sfchronicle.com/opinion/openforum/article/Enabling-economic-and-equitable-recovery-in-the-15293604.php) by several of these faculty and other women in STEM. In response, an initial Equitable Recovery Taskforce was formed at UCSF to advise on next actionable next steps. Since then, several task forces have been launched as UCSF moves to the next phase of COVID-19 operations. [Seemay Chou and James Fraser](mailto:seemayandjames@fraserlab.com) are on the Child & Dependent Care task force that falls withint this larger umbrella of efforts. To  help meet the urgent needs of the science research community, which are often distinct from the clinical community, and to update on the progress that the Child & Dependent Care task force is making, we are communicating through this website.
+The idea that UCSF should prioritize an Equitable Recovery was set down in a [letter](https://docs.google.com/document/d/1hyuL_n6lnId7bi0sOwUi0FYE5cyNfYE41ohybmYY6XQ/edit) delivered to campus leaders on 5/4/2020. This spurred a broader call to arms in the Bay Area in an [op-ed](https://www.sfchronicle.com/opinion/openforum/article/Enabling-economic-and-equitable-recovery-in-the-15293604.php) by several of these faculty and other women in STEM. In response, an initial Equitable Recovery Taskforce was formed at UCSF to advise on next actionable next steps. Since then, several task forces have been launched as UCSF moves to the next phase of COVID-19 operations. [Seemay Chou and James Fraser](mailto:seemayandjames@fraserlab.com) are on the Child & Dependent Care task force that falls within this larger umbrella of efforts. To  help meet the urgent needs of the science research community, which are often distinct from the clinical community, and to update on the progress that the Child & Dependent Care task force is making, we are communicating through this website.
 
 We initiated a [survey](https://docs.google.com/forms/d/e/1FAIpQLSeZ63IWCKnT_Wydq5tWcjA5qQVQ4DM9Z1pDhjgFRDm2j1QznA/viewform) to collect data on this issue and are still accepting responses.
 
-## ~~Goal #1: Create website that updates on our efforts~~ (completed July 19)
+## ~~Goal #1: Create website that updates on the resources available and taskforce actions~~ (completed July 19)
 
-This website will initally be specific to the research community at UCSF and update on things we are up to. We hope to provide news on a regular basis so you are aware of what is going on. 
+This website will initially be specific to the research community at UCSF and update on the latest developments. We hope to provide news and updated resources on a regular basis so you are aware of what is going on.
 
 We have also posted a summary of the initial survey [here](/pages/survey.html).
 
