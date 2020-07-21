@@ -4,6 +4,11 @@ title: Welcome
 tagline: Attempting to solve dependent care during COVID-19
 description: Welcome page
 ---
+### UPDATE, 7/21/10:
+
+We have now received 259 responses to our initial survey, which will officially close tomorrow (wed) at noon. Final results from this will be updated afterwards. To keep the momentum going, we are going to go ahead and initiate our follow-up survey so that we can begin processing the data for matching ASAP. If you are interested in participating in the work relief or caregiving match program, you must fill out this [second survey](https://forms.gle/gCdjk1NbAFBimJkbA). To be included in the first iteration of matching, you must do this by Friday, noon. We will leave the survey open after Friday, so that you may still be added to match groups on a rolling-basis (we will update databases every Friday) if you change your mind later. If you have any questions, feel free to [e-mail us](mailto:seemayandjames@gmail.com)
+
+### Context:
 Building on the intial work by
 
 * Tejal Desai, PhD, Professor Department of Bioengineering and Therapeutic Sciences
