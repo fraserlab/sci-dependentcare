@@ -6,7 +6,7 @@ description: Welcome page
 ---
 ### UPDATE, 7/21/10:
 
-We have now received 259 responses to our initial survey, which will close tomorrow (Wed) at noon. Final results from this survey will be updated below afterwards. To keep the momentum going, we are going to go ahead and initiate our follow-up survey so that we can begin processing the data for matching ASAP. **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6), by Friday, noon.**
+We have now received 259 responses to our initial survey, which will close tomorrow (Wed) at noon. Final results from this survey will be updated below afterwards. To keep the momentum going, we are going to go ahead and initiate our follow-up survey so that we can begin processing the data for matching ASAP. We will start by matching families together and then work to try to get caregivers matched up for groups that do not have bandwidth to find caregivers. **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6), by Friday, noon.**
 
 We will leave the survey open after Friday, so that you may still be added to match groups on a rolling-basis (we will do our best to initiate a new round of matches every Friday) if you change your mind later. If you have any questions, feel free to [e-mail us](mailto:seemayandjames@gmail.com)
 
@@ -37,7 +37,7 @@ Our next survey will ask for work responsibilities (e.g. teaching relief, mentor
 
 ## Goal #3: Match parents with each other to enable shared caregiving (get people matched before August)
 
-We will create a database of parents, grouped based on your children's age group(s) and your geographic location. For this, we need you to fill out the survey going out Wednesday, and we will have this set up by end-of-day Friday. For those interested, we hope to enable you to self-organize into cohorts to share efforts/costs. We note that “expanding your bubble” comes with a safety risk and good advice for childcare settings is compiled [here](https://cchp.ucsf.edu/). Exisiting UCSF resources for childcare are listed [here](https://campuslifeservices.ucsf.edu/familyservices/35/update_child_care_closures_and_alternative_care). We will provide guidance on medical and liability waivers through our website currently under construction. Please look out for updates on that.
+We will create a database of parents, grouped based on your children's age group(s) and your geographic location. For this, we need you to fill out the survey going out Wednesday, and we will have this set up by end-of-day Friday. For those interested, we hope to enable you to self-organize into cohorts to share efforts/costs. We will start by matching families together and then work to try to get caregivers matched up for groups that do not have bandwidth to find caregivers. We note that “expanding your bubble” comes with a safety risk and good advice for childcare settings is compiled [here](https://cchp.ucsf.edu/). Exisiting UCSF resources for childcare are listed [here](https://campuslifeservices.ucsf.edu/familyservices/35/update_child_care_closures_and_alternative_care). We will provide guidance on medical and liability waivers through our website currently under construction. Please look out for updates on that.
 
 ## Goal #4: Expand surveillance testing to groups organized in #3 (ongoing)
 
