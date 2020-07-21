@@ -6,7 +6,9 @@ description: Welcome page
 ---
 ### UPDATE, 7/21/10:
 
-We have now received 259 responses to our initial survey, which will officially close tomorrow (wed) at noon. Final results from this will be updated afterwards. To keep the momentum going, we are going to go ahead and initiate our follow-up survey so that we can begin processing the data for matching ASAP. If you are interested in participating in the work relief or caregiving match program, you must fill out this [second survey](https://forms.gle/gCdjk1NbAFBimJkbA). To be included in the first iteration of matching, you must do this by Friday, noon. We will leave the survey open after Friday, so that you may still be added to match groups on a rolling-basis (we will update databases every Friday) if you change your mind later. If you have any questions, feel free to [e-mail us](mailto:seemayandjames@gmail.com)
+We have now received 259 responses to our initial survey, which will close tomorrow (Wed) at noon. Final results from this survey will be updated below afterwards. To keep the momentum going, we are going to go ahead and initiate our follow-up survey so that we can begin processing the data for matching ASAP. **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/gCdjk1NbAFBimJkbA), by Friday, noon.**
+
+We will leave the survey open after Friday, so that you may still be added to match groups on a rolling-basis (we will do our best to initiate a new round of matches every Friday) if you change your mind later. If you have any questions, feel free to [e-mail us](mailto:seemayandjames@gmail.com)
 
 ### Context:
 Building on the intial work by
@@ -21,13 +23,13 @@ Building on the intial work by
 
 The idea that UCSF should prioritize an Equitable Recovery was set down in a [letter](https://docs.google.com/document/d/1hyuL_n6lnId7bi0sOwUi0FYE5cyNfYE41ohybmYY6XQ/edit) delivered to campus leaders on 5/4/2020. This spurred a broader call to arms in the Bay Area in an [op-ed](https://www.sfchronicle.com/opinion/openforum/article/Enabling-economic-and-equitable-recovery-in-the-15293604.php) by several of these faculty and other women in STEM. In response, an initial Equitable Recovery Taskforce was formed at UCSF to advise on next actionable next steps. Since then, several task forces have been launched as UCSF moves to the next phase of COVID-19 operations. [Seemay Chou and James Fraser](mailto:seemayandjames@fraserlab.com) are on the Child & Dependent Care task force that falls within this larger umbrella of efforts. To  help meet the urgent needs of the science research community, which are often distinct from the clinical community, and to update on the progress that the Child & Dependent Care task force is making, we are communicating through this website.
 
-We initiated a [survey](https://docs.google.com/forms/d/e/1FAIpQLSeZ63IWCKnT_Wydq5tWcjA5qQVQ4DM9Z1pDhjgFRDm2j1QznA/viewform) to collect data on this issue and are still accepting responses.
+We initiated a [first survey](https://docs.google.com/forms/d/e/1FAIpQLSeZ63IWCKnT_Wydq5tWcjA5qQVQ4DM9Z1pDhjgFRDm2j1QznA/viewform) to collect data on this issue and are still accepting responses.
 
 ## ~~Goal #1: Create website that updates on the resources available and taskforce actions~~ (completed July 19)
 
 This website will initially be specific to the research community at UCSF and update on the latest developments. We hope to provide news and updated resources on a regular basis so you are aware of what is going on.
 
-We have also posted a summary of the initial survey [here](/pages/survey.html).
+We have also posted a summary of the first survey [here](/pages/survey.html).
 
 ## Goal #2: Relief from work duties this Fall (get people matched by mid-August)
 
