@@ -6,7 +6,7 @@ description: Welcome page
 ---
 ### UPDATE, 7/21/10:
 
-We have now received 259 responses to our initial survey, which will close tomorrow (Wed) at noon. Final results from this survey will be updated below afterwards. To keep the momentum going, we are going to go ahead and initiate our follow-up survey so that we can begin processing the data for matching ASAP. **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/gCdjk1NbAFBimJkbA), by Friday, noon.**
+We have now received 259 responses to our initial survey, which will close tomorrow (Wed) at noon. Final results from this survey will be updated below afterwards. To keep the momentum going, we are going to go ahead and initiate our follow-up survey so that we can begin processing the data for matching ASAP. **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6), by Friday, noon.**
 
 We will leave the survey open after Friday, so that you may still be added to match groups on a rolling-basis (we will do our best to initiate a new round of matches every Friday) if you change your mind later. If you have any questions, feel free to [e-mail us](mailto:seemayandjames@gmail.com)
 
