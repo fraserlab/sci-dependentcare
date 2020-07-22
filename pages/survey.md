@@ -3,19 +3,19 @@ layout: page
 title: Assessment Survey results, as of Sunday evening 7/19/20
 description: Survey Results
 ---
-### Assessment Survey results, as of Sunday evening 7/19/20
+### Assessment Survey results
 
-We sent out a survey last Friday to gather information on needs and demographics for caregivers within our research community, including staff, trainees, and faculty. This was advertised through graduate programs and QBI. We received 195 responses by Sunday evening, although the survey will remain open until Wednesday. Below is an initial overview of the current results. We have also included a snippet of the free-form comments to give you a sense of some of the key themes that came through. It is clear that balancing two full-time jobs of both research and caregiving has been a tremendous challenge that is not tenable, if we value research productivity, mental health, and equity. We will update this page after the final tally on Wednesday evening, and those results will be shared with the broader UCSF childcare taskforce and university leadership.   
+We sent out a survey last Friday to gather information on needs and demographics for caregivers within our research community, including staff, trainees, and faculty. This was advertised through graduate programs and QBI. We received 307 responses by survey close on Wednesday July 22. Below is an overview of the current results. We have also included a snippet of the free-form comments to give you a sense of some of the key themes that came through. It is clear that balancing two full-time jobs of both research and caregiving has been a tremendous challenge that is not tenable, if we value research productivity, mental health, and equity. These results will be shared with the broader UCSF childcare taskforce and university leadership.   
 
-![Image1](/assets/images/survey/image001.png)
+![Image1](/assets/images/survey/image1.png)
 
-![Image2](/assets/images/survey/image002.png)
+![Image2](/assets/images/survey/image2.png)
 
-![Image3](/assets/images/survey/image003.png)
+![Image3](/assets/images/survey/image3.png)
 
-![Image4](/assets/images/survey/image004.png)
+![Image4](/assets/images/survey/image4.png)
 
-![Image5](/assets/images/survey/image005.png)   
+![Image5](/assets/images/survey/image5.png)   
 
 ### Below are listed a fraction of the short answer comments, which provides a window into the experiences and concerns of your fellow colleagues:
 
@@ -76,3 +76,25 @@ We sent out a survey last Friday to gather information on needs and demographics
 * We have our elderly mother-in-law living with us, so we must balance risk of exposure to her with childcare needs. It's a double-bind without a clear solution.
 
 * Some (any) help with childcare is desperately needed.
+
+* It is important that there are affordable options for postdocs. We only earn ~$3000 per month and daycare costs for postdocs are an enormous barrier to staying in academia.
+
+* Even if we get resources for childcare, what safety policies will be in place to ensure we are not further spreading COVID
+
+* It would be great to run a tutoring or STEM support session set up for school aged children and have PhD, MD, DDS student volunteers to run the sessions. Many parents have concerns when it comes to education and it would be great to have some sort of STEM support during this time. Also, students will be able to add in their resume/CV.
+
+* thanks for sending out this survey , it would also be great to have another community panel hearing from UCSF pediatricians about updated news on risk of getting/transmitting/dying from COVID19 in children. It would also be great to hear thoughts on shared childcare 'pods' , and best practices if families group together to prevent spread of COVID19.
+
+* hope regular testing will be carried out for all the teachers, like once per month.
+
+* Drop-in childcare preferably outdoors for a few hours while parent is conducting experiments
+
+* What happens if daycares are shut down again?
+
+* Willing to be flexible and creative
+
+* Group care with families with similar values on the isolationist scale and a dedicated person (to say 3-4 kids/families) could be effective.
+
+* Will gathering people in UCSF into small group (5 families per group), parents take turns of offering teaching for the kids. This schooling bubble may help to keep normal life and minimize the pandemic spreading.
+
+* I hope that all UCSF staff are getting asked these questions, including food service, cleaning, etc staff members
