@@ -25,6 +25,8 @@ The idea that UCSF should prioritize an Equitable Recovery was set down in a [le
 
 We initiated a [first survey](https://docs.google.com/forms/d/e/1FAIpQLSeZ63IWCKnT_Wydq5tWcjA5qQVQ4DM9Z1pDhjgFRDm2j1QznA/viewform) to collect data on this issue and are still accepting responses.
 
+This effort is focused specifically on those in the basic science research community at UCSF so that we can target unique challenges that are difficult to address at a campus-wide level.
+
 ## ~~Goal #1: Create website that updates on the resources available and taskforce actions~~ (completed July 19)
 
 This website will initially be specific to the research community at UCSF and update on the latest developments. We hope to provide news and updated resources on a regular basis so you are aware of what is going on.
