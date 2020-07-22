@@ -4,8 +4,9 @@ title: Welcome
 tagline: Attempting to solve dependent care during COVID-19
 description: Welcome page
 ---
+These efforts are being implemented on an evolving ad hoc basis by James and Seemay, in parallel to the work being done by the Child & Dependent Care Taskforce. We are focused specifically on those needs in the basic science research community at UCSF so that we can target unique challenges that are difficult to address at a campus-wide level. Your input is greatly needed to clarify next steps, which are being defined as we go based on your feedback.
+
 ### UPDATE, 7/22/10:
-These efforts are being implemented on an evolving ad hoc basis by James and Seemay, in parallel to the work being done by the Child & Dependent Care Taskforce. Your input is greatly needed to clarify next steps, which are being defined as we go based on your feedback. 
 
 We have also posted a summary of the first (now closed) survey [here](/pages/survey.html). **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6), by Friday, noon.**
 
@@ -28,9 +29,6 @@ Building on the intial work by
 
 The idea that UCSF should prioritize an Equitable Recovery was set down in a [letter](https://docs.google.com/document/d/1hyuL_n6lnId7bi0sOwUi0FYE5cyNfYE41ohybmYY6XQ/edit) delivered to campus leaders on 5/4/2020. This spurred a broader call to arms in the Bay Area in an [op-ed](https://www.sfchronicle.com/opinion/openforum/article/Enabling-economic-and-equitable-recovery-in-the-15293604.php) by several of these faculty and other women in STEM. In response, an initial Equitable Recovery Taskforce was formed at UCSF to advise on next actionable next steps. Since then, several task forces have been launched as UCSF moves to the next phase of COVID-19 operations. [Seemay Chou and James Fraser](mailto:seemayandjames@fraserlab.com) are on the Child & Dependent Care task force that falls within this larger umbrella of efforts. To  help meet the urgent needs of the science research community, which are often distinct from the clinical community, and to update on the progress that the Child & Dependent Care task force is making, we are communicating through this website.
 
-We initiated a [first survey](https://docs.google.com/forms/d/e/1FAIpQLSeZ63IWCKnT_Wydq5tWcjA5qQVQ4DM9Z1pDhjgFRDm2j1QznA/viewform) to collect data on this issue and are still accepting responses.
-
-This effort is focused specifically on those in the basic science research community at UCSF so that we can target unique challenges that are difficult to address at a campus-wide level.
 
 ## ~~Goal #1: Create website that updates on the resources available and taskforce actions~~ (completed July 19)
 
@@ -40,7 +38,7 @@ We have also posted a summary of the first survey [here](/pages/survey.html).
 
 ## Goal #2: Relief from work duties this Fall (get people matched by mid-August)
 
-Our next survey will ask for work responsibilities (e.g. teaching relief, mentorship sharing, committee service, cover for leadership roles, technician or editing services for trainees) that need to be covered in light of caregiver duties. We will do our best to activate others without caregiver responsibilities to share some of this burden. Ideas include teaching, pairing labs for joint lab meetings/mentorship, committee service, temporary cover for leadership roles.
+**A [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6)**  asks for work responsibilities (e.g. teaching relief, mentorship sharing, committee service, cover for leadership roles, technician or editing services for trainees) that need to be covered in light of caregiver duties. We will do our best to activate others without caregiver responsibilities to share some of this burden. Ideas include teaching, pairing labs for joint lab meetings/mentorship, committee service, temporary cover for leadership roles.
 
 ## Goal #3: Match parents with each other to enable shared caregiving (get people matched before August)
 
