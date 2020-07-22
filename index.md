@@ -5,6 +5,7 @@ tagline: Attempting to solve dependent care during COVID-19
 description: Welcome page
 ---
 ### UPDATE, 7/22/10:
+These efforts are being implemented on an evolving ad hoc basis by James and Seemay, in parallel to the work being done by the Child & Dependent Care Taskforce. Your input is greatly needed to clarify next steps, which are being defined as we go based on your feedback. 
 
 We have also posted a summary of the first (now closed) survey [here](/pages/survey.html). **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6), by Friday, noon.**
 
