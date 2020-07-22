@@ -4,6 +4,10 @@ title: Welcome
 tagline: Attempting to solve dependent care during COVID-19
 description: Welcome page
 ---
+### UPDATE, 7/22/10:
+
+We have also posted a summary of the first (now closed) survey [here](/pages/survey.html). **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6), by Friday, noon.**
+
 ### UPDATE, 7/21/10:
 
 We have now received 259 responses to our initial survey, which will close tomorrow (Wed) at noon. Final results from this survey will be updated below afterwards. To keep the momentum going, we are going to go ahead and initiate our follow-up survey so that we can begin processing the data for matching ASAP. We will start by matching families together and then work to try to get caregivers matched up for groups that do not have bandwidth to find caregivers. **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6), by Friday, noon.**
