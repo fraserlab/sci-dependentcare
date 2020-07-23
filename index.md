@@ -77,3 +77,5 @@ For faculty, we will send your chairs an anonymized summary of the data we colle
 
 
 ### Please [email us](mailto:seemayandjames@fraserlab.com) suggestions or questions!
+
+Thank you also to Ben Barad for technical support!
