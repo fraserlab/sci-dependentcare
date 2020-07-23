@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assessment Survey results, as of Sunday evening 7/19/20
+title: Assessment Survey results
 description: Survey Results
 ---
 ### Assessment Survey results
