@@ -6,6 +6,23 @@ description: Welcome page
 ---
 These efforts are being implemented on an evolving ad hoc basis by James and Seemay, in parallel to the work being done by the Child & Dependent Care Taskforce. We are focused specifically on those needs in the basic science research community at UCSF so that we can target unique challenges that are difficult to address at a campus-wide level. Your input is greatly needed to clarify next steps, which are being defined as we go based on your feedback.
 
+### UPDATE, 7/24/20
+
+- We have put up a new [link](https://docs.google.com/forms/d/117qs2bLJxoSk4uSOWm2ogz9UEp7l4PAnd77zZcN1UY8/edit) at the top of this web page where you can enter (even anonymously) specifics about how COVID has impacted you (grants, papers, research, leadership positions). This is optional but helpful for us to maintain a growing record of real consequences from this crisis that we will need to pay attention to. Ideally, it would be good to connect this information with demographics, so we can also quantify the impacts on diversity and inclusion.
+
+- In light of the unique needs that students and postdocs have, we are organizing the following:
+	- Students: a zoom forum with us tonight (Thurs) at 9pm (https://ucsf.zoom.us/j/92380211869?pwd=ckR0Q1k2cC9mWjhJejlYako1TGR1Zz09) and Fri at 9am (https://ucsf.zoom.us/j/92530566566?pwd=a2FBZ0l2d2JPQUwvd05DVXZaVWtFZz09). This will allow us to get feedback and establish a direct line of communication for how we can amplify efforts to support them. Anyone is welcome.
+	- Postdocs: postdoc Juliane Winkler on the childcare taskforce (e-mail) and assistant professor Ian Seiple (e-mail) will be spearheading a similar effort for postdocs. Stay tuned for updates from Juliane and Ian on how they will help organize. We anticipate a postdocs-specific Zoom forum for this soon. Thank you to Ian for stepping up - we will be in great need of support by others like him who are not battling dependency care issues at this time. If you’d like to help, let us know so that we can have you on our radar to delegate actions to.
+
+- The childcare taskforce met this morning to iron out details regarding the recommendations they will be making to leadership. We shared our approach and some of our results with them there. For brevity, we summarize here some of the key takeaways from that discussion. More details on this will be forthcoming.
+	- Survey: there will be a broader survey coming soon, similar to the first one we sent out to the basic science research community, to gather numbers to inform needs/approaches. Please try to fill this out - we understand that there will likely be survey fatigue, but it really does help to communicate the extent of the crisis to leadership and guide decisions.
+	- Testing: in addition to clarifying guidelines around symptomatic testing, there will be a push for asymptomatic surveillance testing. This signals a transition from response to prevention, which is key. We conveyed how important this was to allow caregivers the option to participate in solutions, as money is not the only barrier to solving problems - safety is also a chief concern.
+	- $$$: there is discussion about providing some $ relief through either reimbursements or stipends. This is highly preliminary as they still need to iron out details in terms of who has greatest need, amount that can be given, and how.
+	- Additional resources: it is clear from the committee’s analysis and also our survey that there is no one-size-fits-all solution. We have to provide a diverse menu of options and make things like distributing funds, forming pods, transportation, work relief as easy as possible. 
+	- Communication from leadership: it’s clear that there needs to be something soon to acknowledge the extent of the dependency care crisis, and this should come up not just through one message but throughout meetings given that there is little separation between work and home life during this pandemic.
+	- NEED ALL HANDS ON DECK: we need all members of our community to pitch in. We all know very well that Science is a team sport. We need to help our teammates as much as possible if we want to come out of this OK. We will be calling on those without caregiving responsibilities to help, so we encourage you to do the same.
+
+
 ### UPDATE, 7/22/10:
 
 We have also posted a summary of the first (now closed) survey [here](/pages/survey.html). **If you are interested in participating in the work relief or caregiving match program, please fill out this [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6), by Friday, noon.**
