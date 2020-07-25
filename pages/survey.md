@@ -27,8 +27,6 @@ We sent out a survey last Friday to gather information on needs and demographics
 
 * I have a one month old baby at home. My wife is a postdoc as well so it will be great if UCSF provides help/support for postdocs in order to defray the costs of daycares in SF.
 
-* we send our son to bright horizons at mission bay, but don't feel comfortable sending him back, particularly given the lack of testing and the reported case of a teach testing positive and working with the kids for multiple days
-
 * The UCSF daycare re-opened at a reduced capacity and we lost our spots, and now public elementary school will be canceled. There are so many difficult tradeoffs to navigate in terms of providing enough social/emotional enrichment and instruction, while ensuring safety, while also needing reliable care to do our jobs well, while also considering the high costs in SF.
 
 * Flexible childcare options needed to accommodate work from home settings
