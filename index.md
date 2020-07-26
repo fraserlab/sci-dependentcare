@@ -61,7 +61,12 @@ We have also posted a summary of the first survey [here](/pages/survey.html).
 
 ## Goal #3: Match parents with each other to enable shared caregiving (get people matched before August)
 
-We will create a database of parents, grouped based on your children's age group(s) and your geographic location. For this, we need you to fill out the survey going out Wednesday, and we will have this set up by end-of-day Friday. For those interested, we hope to enable you to self-organize into cohorts to share efforts/costs. We will start by matching families together and then work to try to get caregivers matched up for groups that do not have bandwidth to find caregivers. We note that “expanding your bubble” comes with a safety risk and good advice for childcare settings is compiled [here](https://cchp.ucsf.edu/). Exisiting UCSF resources for childcare are listed [here](https://campuslifeservices.ucsf.edu/familyservices/35/update_child_care_closures_and_alternative_care). We will provide guidance on medical and liability waivers through our website currently under construction. Please look out for updates on that.
+* We are linking parents, grouped based on your children's age group(s) and your geographic location. We hope to enable you to self-organize into cohorts to share efforts/costs. We will start by matching families together. Our next focus will be to try to get caregivers matched up for groups that do not have bandwidth to find caregivers, initially focusing on trainees with needs in this area. 
+
+* We note that “expanding your bubble” comes with a safety risk and good advice for childcare settings is compiled [here](https://cchp.ucsf.edu/). A reference on the effectiveness of liability waivers is [here](https://www.abajournal.com/web/article/understanding-liability-waivers-in-the-age-of-covid-19). A sample Risk Acknowledgement form is [here](/assets/pdfs/RISK.pdf). 
+
+
+* Existing UCSF resources for finding childcare are listed [here](https://campuslifeservices.ucsf.edu/familyservices/35/update_child_care_closures_and_alternative_care). 
 
 ## Goal #4: Expand surveillance testing to groups organized in #3 (ongoing)
 
