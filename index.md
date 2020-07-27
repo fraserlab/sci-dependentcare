@@ -6,6 +6,13 @@ description: Welcome page
 ---
 These efforts are being implemented on an evolving ad hoc basis by James and Seemay, in parallel to the work being done by the Child & Dependent Care Taskforce. We are focused specifically on those needs in the basic science research community at UCSF so that we can target unique challenges that are difficult to address at a campus-wide level. Your input is greatly needed to clarify next steps, which are being defined as we go based on your feedback.
 
+### UPDATE, 7/27/20
+
+-  In response to the second survey, now closed, our next step is to provide connections between families to help organize into “pods” of shared dependent care responsibilities. For respondents who opted-in, we compiled survey results and created Google groups to facilitate introductions between families in the following regions:  Peninsula and South Bay, SF and North Bay, East Bay.   The Google groups provide families with access to a directory (names, contact, ages of kids, caregiving duties needed) to enable sharing of childcare duties.  We will also be providing families with guidance on best practices for forming pods, if they choose to self-organize into groups. We imagine this will be an iterative process that will rely heavily on feedback and success of this first round of matching. We have contracted with an experienced educator to assist with forming groups and answering logistical questions and concerns.  
+
+We will continue to provide updates through this website, so please let us know at any time if you would like to be added to a Google group. In this case, simply send us an e-mail that you are willing to share the following information with UCSF colleagues from your area:  name, email address, affiliation, age group of dependents, work site, dependent care options you are interested in.  If you consent to share this information, you will be added to a Google group and spreadsheet for all families seeking childcare solutions in your region of the Bay Area.  
+
+
 ### UPDATE, 7/24/20
 
 - We have put up a new [link](https://docs.google.com/forms/d/117qs2bLJxoSk4uSOWm2ogz9UEp7l4PAnd77zZcN1UY8/edit) at the side of this web page where you can enter (even anonymously) specifics about how COVID has impacted you (grants, papers, research, leadership positions). This is optional but helpful for us to maintain a growing record of real consequences from this crisis that we will need to pay attention to. Ideally, it would be good to connect this information with demographics, so we can also quantify the impacts on diversity and inclusion.
@@ -59,12 +66,11 @@ We have also posted a summary of the first survey [here](/pages/survey.html).
 
 **A [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6)**  asks for work responsibilities (e.g. teaching relief, mentorship sharing, committee service, cover for leadership roles, technician or editing services for trainees) that need to be covered in light of caregiver duties. We will do our best to activate others without caregiver responsibilities to share some of this burden. Ideas include teaching, pairing labs for joint lab meetings/mentorship, committee service, temporary cover for leadership roles.
 
-## Goal #3: Match parents with each other to enable shared caregiving (get people matched before August)
+## ~~Goal #3: Match parents with each other to enable shared caregiving~~  (on-going, but see 7/27/20 update above! 
 
-* We are linking parents, grouped based on your children's age group(s) and your geographic location. We hope to enable you to self-organize into cohorts to share efforts/costs. We will start by matching families together. Our next focus will be to try to get caregivers matched up for groups that do not have bandwidth to find caregivers, initially focusing on trainees with needs in this area. 
+* We are linking parents, grouped based on your children's age group(s) and your geographic location. We hope to enable you to self-organize into cohorts to share efforts/costs. We will start by matching families together. Our next focus will be to try to get caregivers matched up for groups that do not have bandwidth to find caregivers, initially focusing on trainees with needs in this area. ** ***
 
 * We note that “expanding your bubble” comes with a safety risk and good advice for childcare settings is compiled [here](https://cchp.ucsf.edu/). A reference on the effectiveness of liability waivers is [here](https://www.abajournal.com/web/article/understanding-liability-waivers-in-the-age-of-covid-19). A sample Risk Acknowledgment form is [here](/assets/pdfs/RISK.pdf) and a sample Waiver is [here](/assets/pdfs/WAIVER.pdf). 
-
 
 * Existing UCSF resources for finding childcare are listed [here](https://campuslifeservices.ucsf.edu/familyservices/35/update_child_care_closures_and_alternative_care). 
 
