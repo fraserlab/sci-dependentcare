@@ -4,15 +4,15 @@ title: Welcome
 tagline: Attempting to solve dependent care during COVID-19
 description: Welcome page
 ---
-These efforts are being implemented on an evolving ad hoc basis by James and Seemay, in parallel to the work being done by the Child & Dependent Care Taskforce. We are focused specifically on those needs in the basic science research community at UCSF so that we can target unique challenges that are difficult to address at a campus-wide level. Your input is greatly needed to clarify next steps, which are being defined as we go based on your feedback.
+These efforts are being implemented on an evolving ad hoc basis by [Seemay and James](mailto:seemayandjames@fraserlab.com), in parallel to the work being done by the Child & Dependent Care Taskforce. We are focused specifically on those needs in the basic science research community at UCSF so that we can target unique challenges that are difficult to address at a campus-wide level. Your input is welcomed to clarify next steps, which are being defined as we go based on your feedback.
 
 ### UPDATE, 7/27/20
 
 In response to the second survey, now closed, our next step is to provide connections between families to help organize into “pods” of shared dependent care responsibilities. For respondents who opted-in, we compiled survey results and created Google groups to facilitate introductions between families in the following regions:  Peninsula and South Bay, SF and North Bay, East Bay.   The Google groups provide families with access to a directory (names, contact, ages of kids, caregiving duties needed) to enable sharing of childcare duties.  We will also be providing families with guidance on best practices for forming pods, if they choose to self-organize into groups. We imagine this will be an iterative process that will rely heavily on feedback and success of this first round of matching. We have contracted with an experienced educator to assist with forming groups and answering logistical questions and concerns. Please keep [equity](https://www.sfchronicle.com/education/article/Pandemic-pods-Unfair-option-for-the-privileged-15430625.php) in mind when forming groups, as many UCSF employees do not have the same access to childcare, financial resources, and work-from-home options.  
 
-We will continue to provide updates through this website, so please let us know at any time if you would like to be added to a Google group. In this case, simply send us an e-mail that you are willing to share the following information with UCSF colleagues from your area:  name, email address, affiliation, age group of dependents, niehgborhood/zipcode, work site, dependent care options you are interested in.  If you consent to share this information, you will be added to a Google group and spreadsheet for all families seeking childcare solutions in your region of the Bay Area.  
+We will continue to provide updates through this website, so please let us know at any time if you would like to be added to a Google group. In this case, simply send us an e-mail that you are willing to share the following information with UCSF colleagues from your area:  name, email address, affiliation, age group of dependents, neighborhood/zip-code, work site, dependent care options you are interested in.  If you consent to share this information, you will be added to a Google group and spreadsheet for all families seeking childcare solutions in your region of the Bay Area.  
 
-Our next efforts willl be compiling the results of the surveys for communicating the extent of the crisis to department heads and PIs, and to begin the helping people find relief from work duties this Fall. 
+Our next efforts will be compiling the results of the surveys for communicating the extent of the crisis to department heads and PIs, and to begin the helping people find relief from work duties this Fall. 
 
 **There will be Postdoc specific zoom calls today at [1PM](https://ucsf.zoom.us/j/94387254593?pwd=Yk1sOUdiTTlTU2RTR0hvRUEybU1pZz09) and [8:30PM](https://ucsf.zoom.us/j/91098023510?pwd=RUR1MWVqQW5TL0V2Z1lhRkhTWFdPdz09)**
 
@@ -71,7 +71,7 @@ We have also posted a summary of the first survey [here](/pages/survey.html).
 
 ## ~~Goal #3: Match parents with each other to enable shared caregiving~~  (on-going, but see 7/27/20 update above!)
 
-* We are linking parents, grouped based on your children's age group(s) and your geographic location. We hope to enable you to self-organize into cohorts to share efforts/costs. We will start by matching families together. Our next focus will be to try to get caregivers matched up for groups that do not have bandwidth to find caregivers, initially focusing on trainees with needs in this area. ** ***
+* We are linking parents, grouped based on your children's age group(s) and your geographic location. We hope to enable you to self-organize into cohorts to share efforts/costs. We will start by matching families together. Our next focus will be to try to get caregivers matched up for groups that do not have bandwidth to find caregivers, initially focusing on trainees with needs in this area. 
 
 * We note that “expanding your bubble” comes with a safety risk and good advice for childcare settings is compiled [here](https://cchp.ucsf.edu/). A reference on the effectiveness of liability waivers is [here](https://www.abajournal.com/web/article/understanding-liability-waivers-in-the-age-of-covid-19). A sample Risk Acknowledgment form is [here](/assets/pdfs/RISK.pdf) and a sample Waiver is [here](/assets/pdfs/WAIVER.pdf). 
 
