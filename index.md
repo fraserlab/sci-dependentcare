@@ -12,6 +12,7 @@ In response to the second survey, now closed, our next step is to provide connec
 
 We will continue to provide updates through this website, so please let us know at any time if you would like to be added to a Google group. In this case, simply send us an e-mail that you are willing to share the following information with UCSF colleagues from your area:  name, email address, affiliation, age group of dependents, work site, dependent care options you are interested in.  If you consent to share this information, you will be added to a Google group and spreadsheet for all families seeking childcare solutions in your region of the Bay Area.  
 
+Our next efforts willl be compiling the results of the surveys for communicating the extent of the crisis to department heads and PIs, and to begin the helping people find relief from work duties this Fall. 
 
 ### UPDATE, 7/24/20
 
@@ -66,7 +67,7 @@ We have also posted a summary of the first survey [here](/pages/survey.html).
 
 **A [second survey](https://forms.gle/Z6uJP9XYiVPhvSLb6)**  asks for work responsibilities (e.g. teaching relief, mentorship sharing, committee service, cover for leadership roles, technician or editing services for trainees) that need to be covered in light of caregiver duties. We will do our best to activate others without caregiver responsibilities to share some of this burden. Ideas include teaching, pairing labs for joint lab meetings/mentorship, committee service, temporary cover for leadership roles.
 
-## ~~Goal #3: Match parents with each other to enable shared caregiving~~  (on-going, but see 7/27/20 update above! 
+## ~~Goal #3: Match parents with each other to enable shared caregiving~~  (on-going, but see 7/27/20 update above!)
 
 * We are linking parents, grouped based on your children's age group(s) and your geographic location. We hope to enable you to self-organize into cohorts to share efforts/costs. We will start by matching families together. Our next focus will be to try to get caregivers matched up for groups that do not have bandwidth to find caregivers, initially focusing on trainees with needs in this area. ** ***
 
