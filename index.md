@@ -14,6 +14,8 @@ We will continue to provide updates through this website, so please let us know 
 
 Our next efforts willl be compiling the results of the surveys for communicating the extent of the crisis to department heads and PIs, and to begin the helping people find relief from work duties this Fall. 
 
+**There will be Postdoc specific zoom calls today at [1PM](https://ucsf.zoom.us/j/94387254593?pwd=Yk1sOUdiTTlTU2RTR0hvRUEybU1pZz09) and [8:30PM](https://ucsf.zoom.us/j/91098023510?pwd=RUR1MWVqQW5TL0V2Z1lhRkhTWFdPdz09)**
+
 ### UPDATE, 7/24/20
 
 - We have put up a new [link](https://docs.google.com/forms/d/117qs2bLJxoSk4uSOWm2ogz9UEp7l4PAnd77zZcN1UY8/edit) at the side of this web page where you can enter (even anonymously) specifics about how COVID has impacted you (grants, papers, research, leadership positions). This is optional but helpful for us to maintain a growing record of real consequences from this crisis that we will need to pay attention to. Ideally, it would be good to connect this information with demographics, so we can also quantify the impacts on diversity and inclusion.
