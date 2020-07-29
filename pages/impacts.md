@@ -15,6 +15,8 @@ Below is a snapshot of some of the COVID-related impacts that our research commu
 
 ![Image4](/assets/images/impacts/image004.png)
 
+**A subset of the comments received:**
+
 * Stepped down from 6 leadership roles (5 on campus, 1 off campus) so far. Will continue to step down as the lack of childcare continues.
 
 * I have missed out on major career opportunities that would lead to career advancement due to not having reliable childcare. I have seen my male and non-parent colleagues benefit from these opportunities. The silence and lack of acknowledgement from leadership on this issue is astounding.
