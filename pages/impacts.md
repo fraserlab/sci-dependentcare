@@ -5,7 +5,7 @@ description: Impacts Results
 ---
 ### Impacts Survey initial results
 
-Below is a snapshot of some of the COVID-related impacts that our research community is reporting so far (27 responses, and still [collecting responses](https://docs.google.com/forms/d/117qs2bLJxoSk4uSOWm2ogz9UEp7l4PAnd77zZcN1UY8/edit)). For confidentiality, we are not currently reporting specific comments from individuals, but will edit this page later with comments that preserve anonymity. 
+Below is a snapshot of some of the COVID-related impacts that our research community is reporting so far (27 responses, and still [collecting responses](https://docs.google.com/forms/d/117qs2bLJxoSk4uSOWm2ogz9UEp7l4PAnd77zZcN1UY8/edit)). For confidentiality, we are editing comments that preserve anonymity. We will update as more results come in.
 
 ![Image1](/assets/images/impacts/image001.png)
 
