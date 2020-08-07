@@ -6,6 +6,21 @@ description: Welcome page
 ---
 These efforts are being implemented on an evolving ad hoc basis by [Seemay and James](mailto:seemayandjames@fraserlab.com), in parallel to the work being done by the Child & Dependent Care Taskforce. We are focused specifically on those needs in the basic science research community at UCSF so that we can target unique challenges that are difficult to address at a campus-wide level. Your input is welcomed to clarify next steps, which are being defined as we go based on your feedback.
 
+## UPDATE, 8/7/20
+A few updates from this week:
+
+- UCSF Family Services/YMCA Learning Camps coming to three UCSF campuses. Daily schedule is Monday-Friday, 7am-6pm; enrollment is for four-week sessions with priority enrollment for UCSF families. First session begins August 17. Fee: $285/week (scholarships available). Registration starts at noon, Friday, August 7, for UCSF employees and students who work on site. Spaces are limited and registration is first come, first served. [Click here for Learning Camps enrollment and more program details](http://tiny.ucsf.edu/ymca)
+
+
+- The UCSF-wide childcare taskforce met yesterday to finalize some of the recommendations we will be making to leadership for testing, surveys, and additional resources. **If there is interest, James and I would be open to having an informal basic science community zoom to field questions about the taskforce.** Please [e-mail](mailto:seemayandjames@gmail.com) us directly if you feel strongly about this or have additional questions.
+
+- Parent groups were matched based on our recent surveys (and those who consented), and we have incorporated UC Berkeley parents into the East Bay group (thank you to Ksenia Krasileva for facilitating expansion). We understand that it is very difficult to get the conversation going, so **we have scheduled three zooms next week to give matched parent groups an opportunity to connect and ask questions** around podding and childcare this Fall.  This optional meeting will be a combination of logistical updates, guidance for best practices, and open discussion time.  They will be  holding additional meetings for SF/North Bay (Monday, 8/10, 8PM), East Bay (Tuesday, 8/11, 8PM), South Bay (Wednesday, 8/12, 8PM).  [E-mail](mailto:seemayandjames@gmail.com) us if you would like the Zoom url.
+
+- There is a lot of ongoing confusion about what research or discretionary funds can be used for in terms of COVID relief for faculty, staff, and trainees. Seemay is working closely with the administration to try and clarify (and hopefully relax) some of these restrictions. **If you have experienced any frustrations or success using funding for COVID relief in your lab, it would be really helpful if you could let Seemay know by entering your experience into the short survey link [here](https://forms.gle/XF3WKpp2zz3doQ8G6) and on the right side of this website.** This will give us more context to sort through inconsistencies and find best practices. We hope to at some point have a useful FAQ page on this.
+
+- Students and postdocs in basic science are getting a **grassroots survey spearheaded by Noelle L’Etoile to get insight into what additional expenses UCSF trainees are incurring** during this time. These will be distributed by some of the grad programs and others. See survey [here](https://docs.google.com/forms/d/e/1FAIpQLSd57s6WHlsv_4fj32ueM2RCe7K2NNUyjStQogcLvh4PXrSKCg/viewform?usp=sf_link), and e-mail Noelle if you have any questions.
+
+
 ### UPDATE, 7/29/20
 
 A group of UCSF Pediatricians and health professionals have formed a Collaborative to Advise on Re-opening Education Safely (CARES). They will be hosting [webinars](https://ucsf.co1.qualtrics.com/jfe/form/SV_1ERXzjZ3lItb34V?Q_CHL=qr) in August on “What we know about Children and COVID-19 Transmission”, “Considerations for Preparing for In-Person Learning during COVID-19”, and "Supporting Children during Remote Learning with an Emphasis on Equity and Mental Health". 
